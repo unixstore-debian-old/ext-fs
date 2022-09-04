@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-fs deb admin optional arch=all
 Checksums-Sha1:
- 4d38b23ffa9e0a66e6d34878115e2b1d2b69b243 192 ext-fs_1.0.0.orig.tar.xz
+ 41318f577e57276f0288dfe94538afd66addc756 192 ext-fs_1.0.0.orig.tar.xz
  4b0bc46c152369aab4bd41f181d0adbdae766158 776 ext-fs_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- c70673712ac548e773a64adf32559fa829eb057e3f3cdca17c4c9e7b6e115c19 192 ext-fs_1.0.0.orig.tar.xz
+ 64110372eab47cbbe56eef8976592eafa374cb5524b12de36649997a3a6a127a 192 ext-fs_1.0.0.orig.tar.xz
  f52b6f800013b54eeea82191ad5f5d3048bc4304aff4513773bfca51d1dbcdef 776 ext-fs_1.0.0-1.debian.tar.xz
 Files:
- d17242ad49a501f3d57cec64b9e65594 192 ext-fs_1.0.0.orig.tar.xz
+ 22f51311466ccfda61a3e77e762cad8a 192 ext-fs_1.0.0.orig.tar.xz
  e874e21bc3efbbe3907039415eeed204 776 ext-fs_1.0.0-1.debian.tar.xz
